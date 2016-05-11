@@ -908,6 +908,14 @@
 			opacity: 0.25;
 		}
 
+		.android {
+			background-image: url('../images/ddlandroid.png');
+		}
+
+		.ios {
+			background-image: url('../images/ddlios.png');
+		}
+
 /* Header */
 
 	#skel-layers-wrapper {
