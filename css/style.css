@@ -1105,7 +1105,7 @@
 	}
 
 		.wrapper.style2 {
-			background-color: #f6f6f6;
+			background-color: #001d26;
 		}
 
 		.wrapper.style3 {
@@ -1181,3 +1181,7 @@
 					margin-left: 0;
 					padding-left: 0;
 				}
+
+.logo_welcome {
+	width: 50%;
+}
