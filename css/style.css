@@ -1202,6 +1202,16 @@
 	width: 50%;
 }
 
-.whitey{
+.whitey {
 	color: white;
+}
+
+.apppres {
+		text-align: center;
+	}
+
+.ddl {
+	width: calc(50% - 40px);
+	float:left;
+	margin: 10px;
 }
